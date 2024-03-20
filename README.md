@@ -5,7 +5,8 @@ All my data analytics and data science projects are contained here
 
 ## Table of Contents
 
-- [Introduction]
+- [Business Understanding](#BusinessUnderstanding)
+- 
 
 ## Business Understanding
 
