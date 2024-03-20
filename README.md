@@ -6,7 +6,13 @@ All my data analytics and data science projects are contained here
 ## Table of Contents
 
 - [Business Understanding](#BusinessUnderstanding)
-- 
+- [Data Understanding](#DataUnderstanding)
+- [Screenshots of Visualization / Results](#ScreenshotsofVisualization/Results)
+- [Technologies Deployed](#TechnologiesDeployed)
+- [Setup](#Setup)
+- [Approach](#Approach)
+- [Status](#Status)
+- [Credits](#Credits)
 
 ## Business Understanding
 
@@ -14,7 +20,7 @@ All my data analytics and data science projects are contained here
 
 ## Screenshots of Visualization / Results
 
-## Technologies
+## Technologies Deployed
 
 ## Setup
 
