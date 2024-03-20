@@ -1,22 +1,22 @@
 # data_projects
 All my data analytics and data science projects are contained here
 
-# Demo Link
+## Demo Link
 
-# Table of Contents
+## Table of Contents
 
-# Business Understanding
+## Business Understanding
 
-# Data Understanding
+## Data Understanding
 
-# Screenshots of Visualization / Results
+## Screenshots of Visualization / Results
 
-# Technologies
+## Technologies
 
-# Setup
+## Setup
 
-# Approach
+## Approach
 
-# Status
+## Status
 
-# Credits
+## Credits
